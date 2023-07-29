@@ -2,7 +2,7 @@
 import Image from "next/image"
 import { useState } from "react"
 import shevron_dovn from "../../public/shevron_dovn.svg"
-import shevron_up from "../../public/shevron_up.svg"
+import shevron_up from "../../public/shevron_up.svg" //1
 
 export default function Faq() {
   const sectionTitle =
