@@ -2,7 +2,7 @@ import Link from "next/link"
 import Image from "next/image"
 import IconCart from "../ui/icons/IconCart"
 import IconUser from "../ui/icons/IconUser_border"
-import outschool from "../../public/Outschool.svg"
+import outschool from "../../public/outschool.svg"
 
 export default function Header() {
     const menu = [
