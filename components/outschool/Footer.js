@@ -1,6 +1,6 @@
 import Link from "next/link"
 import Image from "next/image"
-import outschool from "../../public/Outschool.svg"
+import outschool from "../../public/outschool.svg
 import facebook from "../../public/Social/facebook.svg"
 import twitter from "../../public/Social/twitter.svg"
 import instagram from "../../public/Social/instagram.svg"
